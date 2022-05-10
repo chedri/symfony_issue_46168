@@ -52,3 +52,5 @@
 /.web-server-pid
 
 /web
+/chedri
+.env.local

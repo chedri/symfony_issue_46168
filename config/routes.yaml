@@ -1,6 +1,6 @@
-controllers:
-    resource: ../src/Controller/
-    type: annotation
+main_route:
+    path: /
+    controller: App\Controller\MainController::main
 
 kernel:
     resource: ../src/Kernel.php
